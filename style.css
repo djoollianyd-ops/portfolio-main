@@ -163,11 +163,11 @@ main {
 
 .profile-img {
     width: 250px;
-    height: auto;
+    height: 250px;
     min-height: 340px;
     object-fit: cover;
-    border-radius: 15px;
-    border: 10px solid rgba(255, 255, 255, 0.72);
+    border-radius: 50%;
+    border: 3px solid white;
     box-shadow: var(--shadow-strong);
 }
 
