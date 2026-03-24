@@ -170,10 +170,7 @@ main {
     border: 10px solid rgba(255, 255, 255, 0.72);
     box-shadow: var(--shadow-strong);
 }
-.profil-img {
-    text-align: center;
-    margin-top:n20px;
-}
+
 
 .hero-copy,
 .card {
