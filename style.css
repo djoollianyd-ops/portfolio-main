@@ -167,15 +167,10 @@ main {
     min-height: 340px;
     object-fit: cover: cover;
     border-radius: clamp(28px, 5vw, 42px);
-    border: 4px solid white;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    border: 10px solid rgba(255, 255, 255, 0.72);
+    box-shadow: var(--shadow-strong);
 }
-/* Sur ordinateur */
-@media (min-width: 768px) {
-    width: 180px;
-    heigt: 180px;
- }
-}
+
 
 .hero-copy,
 .card {
